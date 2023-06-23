@@ -1,0 +1,12 @@
+   @font-face {
+    font-family: 'RoboticRevolution Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('RoboticRevolution Regular'), url('RoboticRevolution.woff') format('woff');
+}
+
+    h1 {
+        font-family:'RoboticRevolution Regular';
+        font-weight: 300;
+        color:aqua;
+    }
