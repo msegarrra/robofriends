@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/robofriends.github.io/static/css/main.9b9f5d9c.css",
+    "main.js": "/robofriends.github.io/static/js/main.5c07aa01.js",
+    "static/media/RoboticRevolution.woff": "/robofriends.github.io/static/media/RoboticRevolution.ee34bc8cd4a7878e1061.woff",
+    "index.html": "/robofriends.github.io/index.html",
+    "main.9b9f5d9c.css.map": "/robofriends.github.io/static/css/main.9b9f5d9c.css.map",
+    "main.5c07aa01.js.map": "/robofriends.github.io/static/js/main.5c07aa01.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b9f5d9c.css",
+    "static/js/main.5c07aa01.js"
+  ]
+}
