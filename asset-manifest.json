@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/robofriends.github.io/static/css/main.9b9f5d9c.css",
-    "main.js": "/robofriends.github.io/static/js/main.5c07aa01.js",
-    "static/media/RoboticRevolution.woff": "/robofriends.github.io/static/media/RoboticRevolution.ee34bc8cd4a7878e1061.woff",
-    "index.html": "/robofriends.github.io/index.html",
-    "main.9b9f5d9c.css.map": "/robofriends.github.io/static/css/main.9b9f5d9c.css.map",
-    "main.5c07aa01.js.map": "/robofriends.github.io/static/js/main.5c07aa01.js.map"
+    "main.css": "/robofriends/static/css/main.3686e45b.css",
+    "main.js": "/robofriends/static/js/main.5c07aa01.js",
+    "static/media/RoboticRevolution.woff": "/robofriends/static/media/RoboticRevolution.ee34bc8cd4a7878e1061.woff",
+    "index.html": "/robofriends/index.html",
+    "main.3686e45b.css.map": "/robofriends/static/css/main.3686e45b.css.map",
+    "main.5c07aa01.js.map": "/robofriends/static/js/main.5c07aa01.js.map"
   },
   "entrypoints": [
-    "static/css/main.9b9f5d9c.css",
+    "static/css/main.3686e45b.css",
     "static/js/main.5c07aa01.js"
   ]
 }
